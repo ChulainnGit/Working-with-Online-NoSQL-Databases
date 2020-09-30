@@ -1,0 +1,27 @@
+//Customer
+
+{"_id":{"$oid":"5ea6b818a669e8421811fd64"},"title":"Mr","fname":"Max","lname":"Doyle","email":"Max@live.ie","mobile":"0856937354","address":"2 beach hill","shipping":"2 beach hill","town":"parkland","county":"dublin","eircode":"d11"}
+
+{"_id":{"$oid":"5ea6b818a669e8421811fd65"},"title":"Mr","fname":"Jake","lname":"Kelly","email":"Jakey@gmail.ie","mobile":"0846955120","address":"11 the glade ","shipping":"11 the glade","town":"rothland","county":"louth","eircode":"l22"}
+
+{"_id":{"$oid":"5ea6b818a669e8421811fd67"},"title":"Dr","fname":"Luke","lname":"Ryan","email":"lukey@gmail.ie","mobile":"0874217931","address":"11 bluehill road","shipping":"5 po box","town":"elendale","county":"dublin","eircode":"d22"}
+
+{"_id":{"$oid":"5ea6b818a669e8421811fd68"},"title":"Dr","fname":"Paul","lname":"Smith","email":"pauly@gmail.ie","mobile":"083023733","address":"28 grand manor ","shipping":"28 grand manor","town":"burrlough","county":"dublin","eircode":"d10"}
+
+//Items
+
+{"_id":{"$oid":"5ea7f5fa44ff3a132c24fad6"},"manufacturer":"apple","model":"iphone xr","price":"500"}
+
+{"_id":{"$oid":"5ea7f5fa44ff3a132c24fad7"},"manufacturer":"samsung","model":"galaxy 9","price":"600"}
+
+{"_id":{"$oid":"5ea7f5fa44ff3a132c24fad8"},"manufacturer":"apple","model":"iphone 8","price":"300"}
+
+{"_id":{"$oid":"5ea7f5fa44ff3a132c24fad9"},"manufacturer":"huawei","model":"p30","price":"200"}
+
+//Orders
+
+{"_id":{"$oid":"5ea6b84c8d1f2a29cc3eb358"},"email":"pauly@gmail.ie","order#":"132753","date":"23/03/20"}
+
+{"_id":{"$oid":"5ea6b84c8d1f2a29cc3eb359"},"email":"pauly@gmail.ie","order#":"148958","date":"28/03/20"}
+
+{"_id":{"$oid":"5ea6b84c8d1f2a29cc3eb35a"},"email":"lukey@gmail.ie","order#":"152742","date":"02/04/20"}
